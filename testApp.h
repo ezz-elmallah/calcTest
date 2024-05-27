@@ -10,7 +10,6 @@ public:
     int sub(int x, int y);
     int mult(int x, int y);
     int devide(int x, int y);
-  
 
 private:
 
